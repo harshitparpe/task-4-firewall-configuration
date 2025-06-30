@@ -1,5 +1,4 @@
 # Task 4: Firewall Configuration
-Elevate Labs Internship Task
 
 # Objective
 To configure Windows Firewall to block Telnet traffic (port 23) and gain practical experience with basic firewall rule management.
